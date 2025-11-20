@@ -1,4 +1,4 @@
-# 🎯 Habit Tracker
+# Habit Tracker
 
 A full-stack web application for building and tracking daily habits with streak counting.
 
@@ -6,7 +6,7 @@ A full-stack web application for building and tracking daily habits with streak 
 
 ---
 
-## 📋 Overview
+## Overview
 
 Habit Tracker is a web application that helps users build and maintain positive habits through daily tracking and streak counting. It features secure JWT authentication, full CRUD operations for habit management, and a clean responsive interface.
 
@@ -19,7 +19,7 @@ Habit Tracker is a web application that helps users build and maintain positive 
 
 ---
 
-## ✨ Features
+## Features
 
 ### Authentication
 - User registration with validation
@@ -39,7 +39,7 @@ Habit Tracker is a web application that helps users build and maintain positive 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────┐         HTTPS          ┌─────────────┐
@@ -64,7 +64,7 @@ Habit Tracker is a web application that helps users build and maintain positive 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend:**
 - Go 1.23+
@@ -83,7 +83,7 @@ Habit Tracker is a web application that helps users build and maintain positive 
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 ### Prerequisites
 - Go 1.23+ installed
@@ -93,7 +93,7 @@ Habit Tracker is a web application that helps users build and maintain positive 
 
 **1. Clone Repository**
 ```bash
-git clone https://github.com/yourusername/habit-tracker.git
+git clone https://github.com/DevPatel0054/Challenge-2-Full-Stack-Go-Backend-with-Vibe-Coded-Frontend
 cd habit-tracker
 ```
 
@@ -125,7 +125,7 @@ Navigate to: `http://localhost:3000`
 
 ---
 
-## 📚 API Documentation
+## API Documentation
 
 ### Base URL
 ```
@@ -318,7 +318,7 @@ curl -X DELETE http://localhost:8080/api/habits/1 \
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Run Tests
 
@@ -380,7 +380,7 @@ ok      habit-tracker   0.234s
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 habit-tracker/
