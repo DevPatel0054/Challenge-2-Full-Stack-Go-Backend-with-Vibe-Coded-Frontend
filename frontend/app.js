@@ -1,5 +1,5 @@
 // ==================== Configuration ====================
-const API_URL = 'https://habit-tracker-backend-zbsx.onrender.com/api';
+const API_URL = 'https://habit-tracker-backend-hjl8.onrender.com/api';
 let currentToken = null;
 let currentUsername = null;
 
